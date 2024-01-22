@@ -1,4 +1,4 @@
 <?php
-echo "MY mpesa app ";
+echo "MY mpesa app Testing mode";
 
 ?>
