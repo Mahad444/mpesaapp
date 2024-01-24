@@ -1,4 +1,4 @@
 <?php
-echo "MY mpesa app Testing mode";
+echo "MY mpesa app Testing mode Using STK push";
 
 ?>
